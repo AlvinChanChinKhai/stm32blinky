@@ -6,8 +6,8 @@ In this project, Nucleo-64 STM32F411RE/STM32F446RE development board is programm
 Group Name: Savvy Falcon
 
 Group Members: Alvin Chan Chin Khai, Beh Jun Long
-<br/>
-  
+
+<br>
 Project Execution
 - 
 1.	Download and install the STM32CubeIDE software from https://www.st.com/en/development-tools/stm32cubeide.html
@@ -16,14 +16,9 @@ Project Execution
 4.	After that, key in the project name and leave everything by default and click “Finish”. Then, a “Initialize all peripherals with their default Mode?” message will     pop out, click “Yes” to proceed.
 5.	Take note that the on-board green led is located at the pin “PA5”. Left click on it and choose GPIO_Output.
 	![image](https://user-images.githubusercontent.com/118992897/203946373-e902a81c-0de9-414e-b00d-5cae9230b4a4.png)
-
- 
 6.	Click on the “Project” tab and click on the generate code to generate the code or this project.
 7.	Inside the generated C code, look for the while loop and type in the code to blink the LED. 
 	![image](https://user-images.githubusercontent.com/118992897/203993801-cb94b160-13ed-4a1f-9c38-457dadede2fa.png)
-
-
-
 8.	Click on the hammer button  ![image](https://user-images.githubusercontent.com/118992897/203946521-463dc74b-5dc5-4b98-b11d-62d41a069fff.png)
   to compile and debug the project and make sure there are no error in the code.
 9.	Next, click on the run button  ![image](https://user-images.githubusercontent.com/118992897/203946543-0eecbfc3-fa76-4c21-8bd0-c7ae0ea5d885.png)
@@ -33,13 +28,13 @@ Project Execution
 
 	
 
-
+<br>
 Project Demonstration: 
 - 
   - Youtube link: https://www.youtube.com/watch?v=AxW3bCXhBX4&ab_channel=BehJunlong
 
 
-
+<br>
 References
 - 
   [1] STM32CubeIDE Tutorial from youtube: https://www.youtube.com/watch?v=oAwZ0cjlmN8&t=846s&ab_channel=MicroPetabyNizarMohideen
