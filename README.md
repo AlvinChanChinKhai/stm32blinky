@@ -1,12 +1,9 @@
 # stm32blinky
-Task: Blink the STM32F4 on board LED repeatedly after each second.
+Project Description: Blink the STM32F4 on board LED repeatedly after each second.
 
 Group Name: Savvy Falcon
 
-Group Members
-- 
-  1. Alvin Chan Chin Khai
-  2. Beh Jun Long
+Group Members: Alvin Chan Chin Khai, Beh Jun Long
 
 Project Execution
 - 
