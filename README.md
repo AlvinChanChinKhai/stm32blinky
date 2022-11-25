@@ -8,6 +8,7 @@ Group Name: Savvy Falcon
 Group Members: Alvin Chan Chin Khai, Beh Jun Long
 
 <br>
+
 Project Execution
 - 
 1.	Download and install the STM32CubeIDE software from https://www.st.com/en/development-tools/stm32cubeide.html
@@ -36,12 +37,14 @@ Project Execution
 	
 
 <br>
+
 Project Demonstration: 
 - 
   - Youtube link: https://www.youtube.com/watch?v=AxW3bCXhBX4&ab_channel=BehJunlong
 
 
 <br>  
+
 References
 - 
   [1] STM32CubeIDE Tutorial from youtube: https://www.youtube.com/watch?v=oAwZ0cjlmN8&t=846s&ab_channel=MicroPetabyNizarMohideen
