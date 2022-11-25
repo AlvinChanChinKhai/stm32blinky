@@ -20,7 +20,7 @@ Project Execution
  
 6.	Click on the “Project” tab and click on the generate code to generate the code or this project.
 7.	Inside the generated C code, look for the while loop and type in the code to blink the LED. 
-8.	![image](https://user-images.githubusercontent.com/118992897/203993801-cb94b160-13ed-4a1f-9c38-457dadede2fa.png)
+	![image](https://user-images.githubusercontent.com/118992897/203993801-cb94b160-13ed-4a1f-9c38-457dadede2fa.png)
 
 
 
