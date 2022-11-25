@@ -7,7 +7,7 @@ Group Name: Savvy Falcon
 
 Group Members: Alvin Chan Chin Khai, Beh Jun Long
 
-
+  
 Project Execution
 - 
 1.	Download and install the STM32CubeIDE software from https://www.st.com/en/development-tools/stm32cubeide.html
