@@ -16,6 +16,7 @@ Project Execution
 4.	After that, key in the project name and leave everything by default and click “Finish”. Then, a “Initialize all peripherals with their default Mode?” message will     pop out, click “Yes” to proceed.
 5.	Take note that the on-board green led is located at the pin “PA5”. Left click on it and choose GPIO_Output.
 	![image](https://user-images.githubusercontent.com/118992897/203946373-e902a81c-0de9-414e-b00d-5cae9230b4a4.png)
+	
 6.	Click on the “Project” tab and click on the generate code to generate the code or this project.
 7.	Inside the generated C code, look for the while loop and type in the code to blink the LED. 
 	![image](https://user-images.githubusercontent.com/118992897/203993801-cb94b160-13ed-4a1f-9c38-457dadede2fa.png)
@@ -26,6 +27,7 @@ Project Execution
  to upload the code to STM32 board. A pop window will show up, leave everything as default and click “Ok”.
 10.	Wait for this message to show inside the console window to indicate the code is successfully uploaded to the board. After a short while, the STM32 board LED should     be start blinking.
  	![image](https://user-images.githubusercontent.com/118992897/203946566-971689fd-72ea-4819-9dee-68c7e7e7f52c.png)
+	
 
 	
 
