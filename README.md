@@ -34,7 +34,7 @@ Project Execution
 	
 
 
-Project demonstration: 
+Project Demonstration: 
 - 
   - Youtube link: https://www.youtube.com/watch?v=AxW3bCXhBX4&ab_channel=BehJunlong
 
