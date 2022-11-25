@@ -1,5 +1,7 @@
 # stm32blinky
-Project Description: Blink the STM32F4 on board LED repeatedly after each second.
+Project Description
+-
+In this project, Nucleo-64 STM32F411RE/STM32F446RE development board is programmed so the on board LED can blink every 1 second repeatedly. Both the board is equipped with a Arm® 32-bit Cortex®-M4 CPU with FPU core. STM32CubeIDE software is used to programmed the board. It is a development platfform that allows us to compile and generate the code, configure the peripheral of the STM32 board. general-purpose input/output pin (GPIO) is used in this project to light up the onboard LED for each second.
 
 Group Name: Savvy Falcon
 
