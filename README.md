@@ -32,12 +32,11 @@ Project Execution
 	
 
 
-Youtube link: 
+Project demonstration: 
 - 
-  - ?
+  - Youtube link:
 
-View the attached document "Step 1- Validate lab environment.docx" for steps to blink the LED.
 
 References
 - 
-  [1] STM32CubeIDE Tutorial https://www.youtube.com/watch?v=oAwZ0cjlmN8&t=846s&ab_channel=MicroPetabyNizarMohideen
+  [1] STM32CubeIDE Tutorial from youtube: https://www.youtube.com/watch?v=oAwZ0cjlmN8&t=846s&ab_channel=MicroPetabyNizarMohideen
